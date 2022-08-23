@@ -1,0 +1,14 @@
+package lista2;
+
+public class Questão5 {
+	public static void main(String[] args) {
+		float a	=1.5F;
+		int b = 10;
+		long c = 9223372036854775807L;
+		
+		System.out.printf("O numero inteiro digitado foi %d \n o numero long digitado foi : %d \n o numero float digitado foi : %f",b,c,a);
+		
+	}
+
+
+}

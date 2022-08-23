@@ -1,0 +1,6 @@
+package lista2;
+
+public class Questão5 {
+float a	=1.5F;
+int b = 10;
+}
